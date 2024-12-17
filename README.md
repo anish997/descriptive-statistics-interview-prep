@@ -20,7 +20,8 @@ If you're preparing for a Data Science interview as a **fresher** or revisiting 
 
 ### Usage:
 1. Clone this repository:
-2. Open the Python files to explore the solutions.
+2. git clone https://github.com/anish997/descriptive-statistics-interview-prep
+3. Open the Python files to explore the solutions.
 
 ✅ Feel free to fork, star, or contribute!
 
